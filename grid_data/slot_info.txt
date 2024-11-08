@@ -1,0 +1,1 @@
+dataslot_0: 24 chirp mass grid with theta_jn=0
